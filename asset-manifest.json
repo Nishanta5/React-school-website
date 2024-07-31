@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/React-school-website/static/css/main.8097afab.chunk.css",
+    "main.js": "/React-school-website/static/js/main.f289dff4.chunk.js",
+    "main.js.map": "/React-school-website/static/js/main.f289dff4.chunk.js.map",
+    "runtime~main.js": "/React-school-website/static/js/runtime~main.3128c966.js",
+    "runtime~main.js.map": "/React-school-website/static/js/runtime~main.3128c966.js.map",
+    "static/js/2.ce559e35.chunk.js": "/React-school-website/static/js/2.ce559e35.chunk.js",
+    "static/js/2.ce559e35.chunk.js.map": "/React-school-website/static/js/2.ce559e35.chunk.js.map",
+    "static/js/3.bd282c0b.chunk.js": "/React-school-website/static/js/3.bd282c0b.chunk.js",
+    "static/js/3.bd282c0b.chunk.js.map": "/React-school-website/static/js/3.bd282c0b.chunk.js.map",
+    "index.html": "/React-school-website/index.html",
+    "precache-manifest.d69c502190fadf4a229e3fb6f2a62161.js": "/React-school-website/precache-manifest.d69c502190fadf4a229e3fb6f2a62161.js",
+    "service-worker.js": "/React-school-website/service-worker.js",
+    "static/css/main.8097afab.chunk.css.map": "/React-school-website/static/css/main.8097afab.chunk.css.map",
+    "static/media/Classroom.jpg": "/React-school-website/static/media/Classroom.51899743.jpg",
+    "static/media/Library.jpg": "/React-school-website/static/media/Library.90f8bb8b.jpg",
+    "static/media/aboutus.jpg": "/React-school-website/static/media/aboutus.f21eb5e6.jpg",
+    "static/media/academics.jpg": "/React-school-website/static/media/academics.1dbcaef9.jpg",
+    "static/media/admissions.jpg": "/React-school-website/static/media/admissions.8e381bbc.jpg",
+    "static/media/btech.jpg": "/React-school-website/static/media/btech.69af6d5a.jpg",
+    "static/media/pexels-raymond-ma-yi-rong-504251-14700793.jpg": "/React-school-website/static/media/pexels-raymond-ma-yi-rong-504251-14700793.e9701d67.jpg",
+    "static/media/pexels-shvets-production-8899940.jpg": "/React-school-website/static/media/pexels-shvets-production-8899940.914095e9.jpg",
+    "static/media/pexels-tdcat-102448.jpg": "/React-school-website/static/media/pexels-tdcat-102448.5ee51848.jpg",
+    "static/media/Home.css": "/React-school-website/static/media/school main.e436e4d0.jpg",
+    "static/media/school.jpg": "/React-school-website/static/media/school.d9487779.jpg",
+    "static/media/science exhibition.PNG": "/React-school-website/static/media/science exhibition.539dcd11.PNG",
+    "static/media/teacher2.jpg": "/React-school-website/static/media/teacher2.b64ba342.jpg",
+    "static/media/teacher3.jpg": "/React-school-website/static/media/teacher3.9246b021.jpg",
+    "static/media/vice principal (1).jpg": "/React-school-website/static/media/vice principal (1).749bcf5d.jpg"
+  }
+}
