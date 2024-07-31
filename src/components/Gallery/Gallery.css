@@ -1,0 +1,39 @@
+/* src/components/Gallery/Gallery.css */
+.gallery h2 {
+    font-size: 2.5rem;
+    color: #007bff;
+}
+
+.gallery .card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.gallery .card-text {
+    font-size: 0.9rem;
+    color: #6c757d;
+}
+
+.gallery .embed-responsive {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+}
+
+.gallery .embed-responsive::before {
+    content: "";
+    display: block;
+    padding-top: 56.25%;
+}
+
+.gallery .embed-responsive-item {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}

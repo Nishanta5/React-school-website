@@ -1,0 +1,19 @@
+/* src/components/Contact/Contact.css */
+.contact h2 {
+    font-size: 2.5rem;
+    color: #007bff;
+}
+
+.contact h5 {
+    font-size: 1.25rem;
+    color: #343a40;
+}
+
+.contact p {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+.contact .form-control {
+    margin-bottom: 1rem;
+}

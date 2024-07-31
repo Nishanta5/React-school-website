@@ -1,0 +1,27 @@
+header {
+    background: url("../../assets/images/school main.jpg") no-repeat center
+        center;
+    background-size: cover;
+}
+
+.carousel-inner img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.quick-links .card {
+    border: none;
+    transition: transform 0.3s;
+}
+
+.quick-links .card:hover {
+    transform: scale(1.05);
+}
+
+.welcome-section {
+    background: #f8f9fa;
+}
+
+footer {
+    background: #343a40;
+}

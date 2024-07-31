@@ -1,0 +1,25 @@
+/* src/components/Faculty/Faculty.css */
+.faculty h2 {
+    font-size: 2.5rem;
+    color: #007bff;
+}
+
+.faculty .card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.faculty .card-title {
+    font-size: 1.25rem;
+    color: #343a40;
+}
+
+.faculty .card-subtitle {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+.faculty .card-text {
+    font-size: 0.9rem;
+    color: #6c757d;
+}
